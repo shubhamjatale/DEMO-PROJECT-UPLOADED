@@ -1,1 +1,2 @@
 https://shubhamj-profile.netlify.app/
+one-way-binding-demo24.netlify.app
